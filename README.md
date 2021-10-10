@@ -34,3 +34,13 @@ Jeder Beleg gibt eine bestimmte Anzahl von Sternen (⭐). Jeder Stern zählt als
 1. (Empfehlung/Optional) Die Entwicklung von Software findet in der Regel in Teams statt. Daher empfiehlt es sich, Standards zu definieren, z.B. einen Standard für die Arbeit mit Git (https://nvie.com/posts/a-successful-git-branching-model/) oder auch Commit-Standards (https://www.conventionalcommits.org/en/v1.0.0/). Diese Inhalte können in einer `CONTRIBUTING.md`-Datei festgelegt werden.
 1. (Empfehlung/Optional) Die Aufgaben werden im Markdown-Format erstellt. Um sie besser lesen zu können, wird Ihnen ein Markdown-Reader/Editor wie Typora empfohlen. Zudem gibt es zahlreiche Plugins für Code-Editoren wie VSCode, Atom, etc. um Markdown Dateien anzuzeigen.
 
+## Autoren
+
+- Gleb Tanaka - 561408 - GitHub GlebTanaka
+- Linda Fleischmann - 573874 - GitHub User5867
+- Susann Schöbel - 571657 - GitHub QRG-low
+
+## Maven + Java Version
+![Screenshot of Maven and Java versions used](.idea/pictures/screenshot_maven_java_SuLiGle.jpg?raw=true "Screenshot of Maven and Java versions used")
+
+
